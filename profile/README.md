@@ -42,6 +42,7 @@ The image that ships is the image that passed. CI builds the ISO in GitHub Actio
 - **Build it** — the [source repository](https://github.com/KaadzOS/KaadzOS) and its GitHub Actions pipeline.
 - **Extend it** — the [pack definitions](https://github.com/KaadzOS/KaadzOS/tree/main/packs) and the signed [APT archive](https://iso.kaadzos.pages.dev/apt/).
 - **Verify it** — the [archive keyring](https://github.com/KaadzOS/kaadzos-archive-keyring), its fingerprint and signed release checksums.
+- **Contribute** — the [contribution guide](https://github.com/KaadzOS/.github/blob/main/CONTRIBUTING.md), [code of conduct](https://github.com/KaadzOS/.github/blob/main/CODE_OF_CONDUCT.md), [support](https://github.com/KaadzOS/.github/blob/main/SUPPORT.md) and [security policy](https://github.com/KaadzOS/.github/blob/main/SECURITY.md).
 
 ## What stays true
 
