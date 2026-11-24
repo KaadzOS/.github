@@ -1,0 +1,44 @@
+name: Bug report
+description: Something in KaadzOS did not behave as documented.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report. Please use the current release and include what you actually saw.
+  - type: input
+    id: release
+    attributes:
+      label: Release or commit
+      description: For example v0.4.0 or a commit SHA.
+      placeholder: v0.4.0
+    validations:
+      required: true
+  - type: dropdown
+    id: firmware
+    attributes:
+      label: Boot mode
+      description: Where the problem appeared.
+      options:
+        - BIOS / Syslinux
+        - UEFI / GRUB
+        - Installed system
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: Steps to reproduce, expected result and actual result.
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant output
+      description: Serial log, journal output, screenshot or command output. Do not paste private data.
+      render: shell
+    validations:
+      required: false

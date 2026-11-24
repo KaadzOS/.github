@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Manual
+    url: https://kaadzos.pages.dev/docs/
+    about: Read the documentation before opening an issue.
+  - name: Security report
+    url: https://github.com/KaadzOS/.github/blob/main/SECURITY.md
+    about: Report vulnerabilities privately, never in a public issue.
+  - name: Releases
+    url: https://github.com/KaadzOS/KaadzOS/releases/latest
+    about: Check the current release, checksum and signature.
