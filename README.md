@@ -11,6 +11,7 @@ This is the quiet repository behind KaadzOS. It holds the public organization pr
 | [`profile/README.md`](profile/README.md) | The public profile, rendered at [github.com/KaadzOS](https://github.com/KaadzOS). |
 | [`assets/kaadzoslogo.png`](assets/kaadzoslogo.png) | The single shared banner asset. |
 | [`SECURITY.md`](SECURITY.md) | Private vulnerability reporting. |
+| [`CONTRIBUTING.md`](CONTRIBUTING.md) | The constraints and checks to run before opening a pull request. |
 
 ## Elsewhere
 
