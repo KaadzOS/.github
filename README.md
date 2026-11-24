@@ -2,6 +2,22 @@
   <img src="https://raw.githubusercontent.com/KaadzOS/.github/main/assets/kaadzoslogo.png" alt="KaadzOS" width="100%">
 </div>
 
+<p align="center">
+  <sub>ORGANIZATION DEFAULTS &nbsp;·&nbsp; SHARED ASSETS &nbsp;·&nbsp; COMMUNITY HEALTH</sub>
+</p>
+
+<p align="center">
+  <strong>The quiet room behind the noise.</strong><br>
+  One banner. One set of rules. Every repository reads from here.
+</p>
+
+<p align="center">
+  <a href="https://kaadzos.pages.dev">Website</a> &nbsp;·&nbsp;
+  <a href="https://kaadzos.pages.dev/docs/">Manual</a> &nbsp;·&nbsp;
+  <a href="https://github.com/KaadzOS/KaadzOS">Source</a> &nbsp;·&nbsp;
+  <a href="https://github.com/KaadzOS/kaadzos-brand">Brand kit</a>
+</p>
+
 ## Organization defaults
 
 This is the quiet repository behind KaadzOS. It holds the public organization profile, the shared banner used at the top of every repository, and the community defaults that apply across the organization.
@@ -23,6 +39,8 @@ This is the quiet repository behind KaadzOS. It holds the public organization pr
 - [KaadzOS source, releases and CI](https://github.com/KaadzOS/KaadzOS)
 - [kaadzos-brand](https://github.com/KaadzOS/kaadzos-brand) — masthead, AMOLED palette and wallpaper
 - [kaadzos-archive-keyring](https://github.com/KaadzOS/kaadzos-archive-keyring) — APT signing key and verification
+- [kaadzos-website](https://github.com/KaadzOS/kaadzos-website) · [kaadzos-docs](https://github.com/KaadzOS/kaadzos-docs) · [kaadzos-pack-defs](https://github.com/KaadzOS/kaadzos-pack-defs)
+- [kaadzos-packages](https://github.com/KaadzOS/kaadzos-packages) · [kaadzos-awesome](https://github.com/KaadzOS/kaadzos-awesome) — skeletons with stable addresses
 - [Website](https://kaadzos.pages.dev) · [Manual](https://kaadzos.pages.dev/docs/) · [ISO mirror](https://iso.kaadzos.pages.dev)
 
 <sub>Debian is a registered trademark of Software in the Public Interest, Inc. KaadzOS is an independent project.</sub>
