@@ -25,7 +25,10 @@ This is the quiet repository behind KaadzOS. It holds the public organization pr
 | Path | Purpose |
 | --- | --- |
 | [`profile/README.md`](profile/README.md) | The public profile, rendered at [github.com/KaadzOS](https://github.com/KaadzOS). |
-| [`assets/kaadzoslogo.png`](assets/kaadzoslogo.png) | The single shared banner asset. |
+| [`assets/kaadzoslogo.png`](assets/kaadzoslogo.png) | The wide shared banner used at the top of every README. |
+| [`assets/kaadzos-mark.png`](assets/kaadzos-mark.png) | Square 512px org avatar; source in [`kaadzos-mark.svg`](assets/kaadzos-mark.svg). |
+| [`assets/social-preview.png`](assets/social-preview.png) | 1200×630 social card; source in [`social-preview.svg`](assets/social-preview.svg). |
+| [`assets/desktop.webp`](assets/desktop.webp) | Stable copy of the CI-captured desktop shot used by the social card. |
 | [`LICENSE`](LICENSE) | The MIT licence for the organization's files. |
 | [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Conduct expectations for project spaces. |
 | [`SUPPORT.md`](SUPPORT.md) | Where to get help and what to include. |

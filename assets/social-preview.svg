@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#000000"/>
+  <g fill="none" stroke="#222222" stroke-width="1">
+    <path d="M 0 520 H 300 L 360 506 H 520"/>
+    <path d="M 0 552 H 300 L 360 538 H 520"/>
+    <path d="M 0 584 H 300 L 360 570 H 520"/>
+    <path d="M 0 616 H 300 L 360 602 H 520"/>
+    <line x1="592" y1="104" x2="592" y2="526"/>
+  </g>
+  <g fill="#222222">
+    <circle cx="360" cy="538" r="3"/>
+    <circle cx="520" cy="602" r="3"/>
+  </g>
+
+  <text x="72" y="200" font-family="Inter Tight, DejaVu Sans, sans-serif" font-size="92" font-weight="800" fill="#ffffff">KAADZOS</text>
+  <line x1="72" y1="232" x2="512" y2="232" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="512" cy="232" r="6" fill="#ffffff"/>
+
+  <g font-family="Inter Tight, DejaVu Sans, sans-serif" font-size="34" font-weight="500" fill="#e0e0e0">
+    <text x="72" y="300">A small operating system</text>
+    <text x="72" y="346">that proves itself.</text>
+  </g>
+  <text x="72" y="408" font-family="Inter Tight, DejaVu Sans, sans-serif" font-size="20" font-weight="600" fill="#8a8a8a">DEBIAN 13  ·  SWAY / WAYLAND  ·  AMD64</text>
+  <text x="72" y="570" font-family="Inter Tight, DejaVu Sans, sans-serif" font-size="18" font-weight="500" fill="#686868">KAADZOS.PAGES.DEV</text>
+
+  <image href="desktop.webp" x="640" y="150" width="500" height="312" preserveAspectRatio="xMidYMid slice"/>
+  <rect x="639" y="149" width="501" height="314" fill="none" stroke="#ffffff" stroke-width="1"/>
+  <text x="640" y="500" font-family="Inter Tight, DejaVu Sans, sans-serif" font-size="17" font-weight="600" fill="#8a8a8a">BOOTED IN CI  ·  BIOS + UEFI  ·  v0.4.0</text>
+</svg>

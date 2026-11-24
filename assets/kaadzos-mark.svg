@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#000000"/>
+  <path d="M -40 300 A 330 330 0 0 1 330 -40" fill="none" stroke="#222222" stroke-width="1"/>
+  <path d="M 200 560 A 330 330 0 0 1 560 200" fill="none" stroke="#222222" stroke-width="1"/>
+  <circle cx="418" cy="78" r="14" fill="#ffffff"/>
+  <text x="256" y="300" text-anchor="middle" font-family="Inter Tight, DejaVu Sans, sans-serif" font-size="220" font-weight="700" fill="#ffffff">KZ</text>
+  <line x1="176" y1="382" x2="316" y2="382" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="316" cy="382" r="6" fill="#ffffff"/>
+</svg>
