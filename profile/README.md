@@ -33,6 +33,11 @@ The image that ships is the image that passed. CI builds the ISO in GitHub Actio
 | [KaadzOS](https://github.com/KaadzOS/KaadzOS) | Live-build configuration, theme generator, pack manager, installer, CI harness and documentation. |
 | [kaadzos-brand](https://github.com/KaadzOS/kaadzos-brand) | The masthead, AMOLED palette, typography and wallpaper for downstream use. |
 | [kaadzos-archive-keyring](https://github.com/KaadzOS/kaadzos-archive-keyring) | The public signing key, fingerprint and verification steps for the optional APT archive. |
+| [kaadzos-website](https://github.com/KaadzOS/kaadzos-website) | Stable address for the editorial site; the build still lives in `site/`. |
+| [kaadzos-docs](https://github.com/KaadzOS/kaadzos-docs) | Stable address for the manual; the chapters still live in `site/docs/`. |
+| [kaadzos-pack-defs](https://github.com/KaadzOS/kaadzos-pack-defs) | Stable address for the `kaadzos-pack-defs` APT package. |
+| [kaadzos-packages](https://github.com/KaadzOS/kaadzos-packages) | Stable address for package front-end work. |
+| [kaadzos-awesome](https://github.com/KaadzOS/kaadzos-awesome) | A curated list with a filter. Still growing. |
 | [.github](https://github.com/KaadzOS/.github) | Organization profile, shared banner and community defaults. |
 
 ## Start here
