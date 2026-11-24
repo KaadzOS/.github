@@ -15,7 +15,7 @@ This is the quiet repository behind KaadzOS. It holds the public organization pr
 | [`SUPPORT.md`](SUPPORT.md) | Where to get help and what to include. |
 | [`SECURITY.md`](SECURITY.md) | Private vulnerability reporting. |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | The constraints and checks to run before opening a pull request. |
-| [`ISSUE_TEMPLATE/`](ISSUE_TEMPLATE/) | Bug and feature forms for all repositories. |
+| [`.github/ISSUE_TEMPLATE/`](.github/ISSUE_TEMPLATE/) | Bug and feature forms for all repositories. |
 | [`PULL_REQUEST_TEMPLATE.md`](PULL_REQUEST_TEMPLATE.md) | The review checklist. |
 
 ## Elsewhere
