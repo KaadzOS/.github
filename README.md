@@ -10,8 +10,13 @@ This is the quiet repository behind KaadzOS. It holds the public organization pr
 | --- | --- |
 | [`profile/README.md`](profile/README.md) | The public profile, rendered at [github.com/KaadzOS](https://github.com/KaadzOS). |
 | [`assets/kaadzoslogo.png`](assets/kaadzoslogo.png) | The single shared banner asset. |
+| [`LICENSE`](LICENSE) | The MIT licence for the organization's files. |
+| [`CODE_OF_CONDUCT.md`](CODE_OF_CONDUCT.md) | Conduct expectations for project spaces. |
+| [`SUPPORT.md`](SUPPORT.md) | Where to get help and what to include. |
 | [`SECURITY.md`](SECURITY.md) | Private vulnerability reporting. |
 | [`CONTRIBUTING.md`](CONTRIBUTING.md) | The constraints and checks to run before opening a pull request. |
+| [`ISSUE_TEMPLATE/`](ISSUE_TEMPLATE/) | Bug and feature forms for all repositories. |
+| [`PULL_REQUEST_TEMPLATE.md`](PULL_REQUEST_TEMPLATE.md) | The review checklist. |
 
 ## Elsewhere
 
