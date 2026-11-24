@@ -31,6 +31,8 @@ The image that ships is the image that passed. CI builds the ISO in GitHub Actio
 | Repository | What lives there |
 | --- | --- |
 | [KaadzOS](https://github.com/KaadzOS/KaadzOS) | Live-build configuration, theme generator, pack manager, installer, CI harness and documentation. |
+| [kaadzos-brand](https://github.com/KaadzOS/kaadzos-brand) | The masthead, AMOLED palette, typography and wallpaper for downstream use. |
+| [kaadzos-archive-keyring](https://github.com/KaadzOS/kaadzos-archive-keyring) | The public signing key, fingerprint and verification steps for the optional APT archive. |
 | [.github](https://github.com/KaadzOS/.github) | Organization profile, shared banner and community defaults. |
 
 ## Start here
@@ -39,6 +41,7 @@ The image that ships is the image that passed. CI builds the ISO in GitHub Actio
 - **Read it** — the [website](https://kaadzos.pages.dev) and the [manual](https://kaadzos.pages.dev/docs/).
 - **Build it** — the [source repository](https://github.com/KaadzOS/KaadzOS) and its GitHub Actions pipeline.
 - **Extend it** — the [pack definitions](https://github.com/KaadzOS/KaadzOS/tree/main/packs) and the signed [APT archive](https://iso.kaadzos.pages.dev/apt/).
+- **Verify it** — the [archive keyring](https://github.com/KaadzOS/kaadzos-archive-keyring), its fingerprint and signed release checksums.
 
 ## What stays true
 

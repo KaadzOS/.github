@@ -16,6 +16,8 @@ This is the quiet repository behind KaadzOS. It holds the public organization pr
 ## Elsewhere
 
 - [KaadzOS source, releases and CI](https://github.com/KaadzOS/KaadzOS)
+- [kaadzos-brand](https://github.com/KaadzOS/kaadzos-brand) — masthead, AMOLED palette and wallpaper
+- [kaadzos-archive-keyring](https://github.com/KaadzOS/kaadzos-archive-keyring) — APT signing key and verification
 - [Website](https://kaadzos.pages.dev) · [Manual](https://kaadzos.pages.dev/docs/) · [ISO mirror](https://iso.kaadzos.pages.dev)
 
 <sub>Debian is a registered trademark of Software in the Public Interest, Inc. KaadzOS is an independent project.</sub>
